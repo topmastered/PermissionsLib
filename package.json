@@ -1,0 +1,23 @@
+{
+    "name": "permissions-lib",
+    "version": "0.0.1",
+    "description": "A simple permissions management library with inheritance, explicit allow/deny, and default permissions.",
+    "main": "Index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/topmastered/PermissionsLib.git"
+    },
+    "keywords": [],
+    "author": "Bryce Cary",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/topmastered/PermissionsLib/issues"
+    },
+    "homepage": "https://github.com/topmastered/PermissionsLib#readme",
+    "devDependencies": {
+        "typescript": "^4.0.3"
+    }
+}
